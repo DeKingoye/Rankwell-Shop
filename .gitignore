@@ -1,0 +1,8 @@
+
+.env.local
+.env
+docker-compose.override.yml
+node_modules
+database
+backend/node_modules
+frontend/node_modules
